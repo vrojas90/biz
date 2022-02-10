@@ -1,0 +1,12 @@
+#mainNav {
+  padding-bottom: 25px;
+  transition: padding-top .3s,padding-bottom .3s;
+  border: none;
+  background-color: transparent;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  background-color: rgba(0,0,255,1);
+}
+
